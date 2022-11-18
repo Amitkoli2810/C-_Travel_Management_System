@@ -1,0 +1,112 @@
+
+ customer id:0
+ name:
+ age:6421384
+ mobile no0
+ gender
+ address
+
+ customer id:656
+ name:amit
+ age:23
+ mobile no8600909
+ genderm
+ addressmail
+
+ customer id:12
+ name:av
+ age:23
+ mobile no65634234
+ genderm
+ addressmatuj
+
+ customer id:0
+ name:
+ age:6421384
+ mobile no0
+ gender
+ address
+
+ customer id:0
+ name:
+ age:6421384
+ mobile no0
+ gender
+ address
+
+ customer id:0
+ name:
+ age:6421384
+ mobile no0
+ gender
+ address
+
+ customer id:0
+ name:
+ age:6421384
+ mobile no0
+ gender
+ address
+
+ customer id:0
+ name:
+ age:6416488
+ mobile no0
+ gender
+ address
+
+ customer id:0
+ name:
+ age:6421384
+ mobile no0
+ gender
+ address
+
+ customer id:0
+ name:
+ age:6421384
+ mobile no0
+ gender
+ address
+
+ customer id:0
+ name:
+ age:6421384
+ mobile no0
+ gender
+ address
+
+ customer id:0
+ name:
+ age:6421384
+ mobile no0
+ gender
+ address
+
+ customer id:0
+ name:
+ age:6421384
+ mobile no0
+ gender
+ address
+
+ customer id:0
+ name:
+ age:6421384
+ mobile no0
+ gender
+ address
+
+ customer id:860090
+ name:Amit
+ age:23
+ mobile no2147483647
+ gender
+ address
+
+ customer id:234
+ name:amit
+ age:34
+ mobile no456789
+ genderm
+ addressmail
